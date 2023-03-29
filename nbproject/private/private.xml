@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/java/Testt.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>125</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>126</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Acteur.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Test.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/GestionActeur.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/controller/TexteController.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/NewFilm.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/FicheFilm.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/IndisponibiliteStudio.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/controller/RealisateurController.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Film.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Texte.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/IndisponibiliteActeur.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Planification.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/ListScene.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Temps.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/navbar/navScene.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/Accueil.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/dao/Useful.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Studio.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/controller/FilmController.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/Scene.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/dao/ConnectionBase.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/FicheScene.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Lieu.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/controller/ActeurController.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/AjoutFilmActeur.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Humeur.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Scene.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/Realisateur.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/navbar/navAccueil.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/controller/SceneController.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/NewTexte.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/Inscription.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/model/FilmActeur.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/dao/AccessBase.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/Testt.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/src/java/controller/TestController.java</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/NewScene.jsp</file>
+            <file>file:/S:/Document%20itu/S5/workspace%20netbeans/MaisonProd/web/WEB-INF/jsp/FicheActeur.jsp</file>
+        </group>
+    </open-files>
+</project-private>
